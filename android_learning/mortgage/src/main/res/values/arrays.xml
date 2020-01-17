@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="years">
+        <item>5年</item>
+        <item>10年</item>
+        <item>15年</item>
+        <item>20年</item>
+        <item>25年</item>
+        <item>30年</item>
+    </string-array>
+    <string-array name="baserate">
+        <item>2015年10月24日，五年期间商贷利率4.90% 公积金利率3.25%</item>
+        <item>2015年08月26日，五年期间商贷利率5.15% 公积金利率3.25%</item>
+        <item>2015年06月28日，五年期间商贷利率5.40% 公积金利率3.50%</item>
+        <item>2015年05月11日，五年期间商贷利率5.65% 公积金利率3.75%</item>
+        <item>2015年03月01日，五年期间商贷利率5.90% 公积金利率4.00%</item>
+        <item>2014年11月22日，五年期间商贷利率6.15% 公积金利率4.25%</item>
+        <item>2014年07月06日，五年期间商贷利率6.15% 公积金利率4.50%</item>
+    </string-array>
+</resources>
